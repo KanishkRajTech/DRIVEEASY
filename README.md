@@ -52,7 +52,7 @@ http://localhost/DRIVEEASY
 
 ## 🛠️ Tech Stack
 - PHP
-- MySQL
+- Tailwind CSS
 - HTML/CSS
 - JavaScript
 - Razorpay API
