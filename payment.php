@@ -5,8 +5,8 @@ require('razorpay-php/Razorpay.php');
 use Razorpay\Api\Api;
 
 // Razorpay API Credentials
-$keyId = "rzp_test_ISPT8LFG4JT4Au";
-$keySecret = "teGLk7VtNxMi8TNrG927Hi47";
+$keyId = "Enter your keyid here ";
+$keySecret = "Enter your keySecret here ";
 $api = new Api($keyId, $keySecret);
 
 // Create an order
